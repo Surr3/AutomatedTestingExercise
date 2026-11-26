@@ -1,8 +1,16 @@
+/*
 package org.example.CSSExercise;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+import java.util.List;
 
 public class ExerciseCSS1 {
     static void main() {
-      /*  WebDriver driver = new ChromeDriver();
+       WebDriver driver = new ChromeDriver();
         driver.get("https://the-internet.herokuapp.com/login?utm_source=chatgpt.com");
 
         WebElement username = driver.findElement(By.cssSelector("input[name='username']"));
@@ -48,7 +56,7 @@ public class ExerciseCSS1 {
 
         WebElement loginbutton = driver.findElement(By.cssSelector("#login button:last-of-type"));
 
-        List<WebElement> fruistList = driver.findElements(By.cssSelector("#fruits>li"));*/
+        List<WebElement> fruistList = driver.findElements(By.cssSelector("#fruits>li"));
 
 
 
@@ -56,3 +64,4 @@ public class ExerciseCSS1 {
 
     }
 }
+*/

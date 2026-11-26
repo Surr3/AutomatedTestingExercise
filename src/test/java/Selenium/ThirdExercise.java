@@ -1,4 +1,4 @@
-package org.example.explicitwait;
+package Selenium;
 
 import org.junit.Test;
 import org.openqa.selenium.By;
